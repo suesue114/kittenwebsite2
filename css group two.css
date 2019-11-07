@@ -1,0 +1,20 @@
+body {
+	background-image: linear-gradient(#E6FFFA, #C8FFB7);
+}
+h1{color: #127DFF;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center}
+h2{color: #39BAFF;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center}
+h3{font-family: Arial, Helvetica, sans-serif;
+text-align: center}
+img{border-style: dotted}
+p{color: #00560D;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+ 
